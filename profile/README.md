@@ -12,8 +12,8 @@
 ```
 
 # 如果你喜欢 [Zig](https://ziglang.org/)，欢迎加入 Zig China 组织
-- 网站：https://zig-china.github.io/
-- 论坛：https://github.com/zig-china/forum/discussions
+- 网站：https://zigcc.github.io/
+- 论坛：https://github.com/zigcc/forum/discussions
 - Telegram：https://t.me/ZigChinese
 - QQ 群：930564004
 - 意见、反馈：jiacai2050+zig@gmail.com
