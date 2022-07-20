@@ -11,7 +11,7 @@
 
 ```
 
-# 如果你喜欢 [Zig](https://ziglang.org/)，欢迎加入 Zig China 组织
+# 如果你喜欢 [Zig](https://ziglang.org/)，欢迎加入 ZigCC 组织
 - 网站：https://zigcc.github.io/
 - 论坛：https://github.com/zigcc/forum/discussions
 - Telegram：https://t.me/ZigChinese
