@@ -11,8 +11,6 @@
 
 ```
 
-
-- If you are keen on [Zig](https://ziglang.org/), welcome to join [zig-china](https://github.com/zig-china/)
-- 如果你喜欢 Zig，欢迎加入 Zig China
-
-也欢迎来信联系：jiacai2050+zig@gmail.com
+- 如果你喜欢 [Zig](https://ziglang.org/)，欢迎加入 Zig China 组织
+- 论坛：https://github.com/zig-china/forum/discussions
+- 意见、反馈：jiacai2050+zig@gmail.com
