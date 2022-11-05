@@ -15,5 +15,6 @@
 - 网站：https://zigcc.github.io/
 - 论坛：https://zigcc.github.io/forum/
 - Telegram：https://t.me/ZigChinese
+- 微信群： ![Weixin QR code](./weixin.jpg)
 - QQ 群：930564004
 - 意见、反馈：jiacai2050+zig@gmail.com
