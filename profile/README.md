@@ -16,6 +16,7 @@
 - 意见、反馈：[zig@liujiacai.net](mailto:zig@liujiacai.net)
 - 论坛：https://zigcc.github.io/forum/
 - Telegram：https://t.me/ZigChinese
-- 微信群：
+- 微信群（关注公众号获取加群方式）：
 
-<img src="weixin.jpg" alt="微信群二维码" width="300" height="400"/>
+![微信公众号](https://github.com/zigcc/.github/raw/main/zig_mp.png)
+
